@@ -9,4 +9,8 @@ And now I added one more!
 
 And some more for our unmerged branch
 
-Let's create a conflict
+<<<<<<< HEAD
+This is a hotfix!
+=======
+This is a hotfix, hotfix hotfix!
+>>>>>>> branch002
