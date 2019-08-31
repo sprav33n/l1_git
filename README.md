@@ -10,7 +10,11 @@ And now I added one more!
 And some more for our unmerged branch
 
 <<<<<<< HEAD
-This is a hotfix!
+This is a hotfix
+
+Well, this is in branch001
+
+And also in master? How?
 =======
 This is a hotfix, hotfix hotfix!
 >>>>>>> branch002
